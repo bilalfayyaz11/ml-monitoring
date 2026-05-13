@@ -1,0 +1,4 @@
+timestamp,level,message,sentiment,compliance_risk
+2025-07-09,ERROR,User login failed due to invalid credentials.,-0.5106,True
+2025-07-09,WARNING,Unusual login location detected.,0.0,False
+2025-07-09,WARNING,Unusual login location detected.,0.0,False
